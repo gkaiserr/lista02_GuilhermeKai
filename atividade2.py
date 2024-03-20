@@ -1,10 +1,10 @@
-a = int(input("Digite um número diferente de 0, para a:"))
+a = float(input("Digite um número diferente de 0, para a:"))
 
 if a == 0 :
     print("ERRO")
 
-b = int(input("Digite um número para b:"))
-c = int(input("Digite um número para c:"))
+b = float(input("Digite um número para b:"))
+c = float(input("Digite um número para c:"))
 
 
 
